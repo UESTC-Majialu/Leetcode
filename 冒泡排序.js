@@ -21,4 +21,3 @@ const arr = [
 ];
 bubble(arr);
 console.log(arr);
-console.log('hello');
